@@ -61,14 +61,14 @@ When I'm not hacking on Deploya, you'll find me experimenting with systematic tr
 | -------------------- | ----------------------------------------------------------------- | ------- |
 | **Oslab**            | Tiny x86 OS featuring basic I/O.                                  | C · ASM |
 | **MooMoo.io Server** | Re‑implementation of game server via reverse‑engineered protocol. | Python  |
-| **SafeBet**          | Arbitrage bot that guarantees a win by comparing betting odds.    | Python  |
+| **Arbitrage Finder**          | Arbitrage bot that guarantees a win by comparing betting odds.    | Python  |
 | **Strongbolt**       | Decentralised chat app built on Matrix.                           | Flutter |
 
 ---
 
 ## ✉️ Get in Touch
 
-[![Email](https://img.shields.io/badge/Email-Martin@deploya.dev-informational?style=for-the-badge\&logo=gmail)](mailto:Martin@deploya.dev)
+[![Email](https://img.shields.io/badge/Email-Martin@deploya.dev-informational?style=for-the-badge\&logo=gmail)](mailto:Hello@martinjakobsson.se)
 [![Website](https://img.shields.io/badge/Portfolio-martinjakobsson.se-11abfb?style=for-the-badge\&logo=Firefox-Browser)](https://martinjakobsson.se)
 [![Deploya.dev](https://img.shields.io/badge/Deploya.dev-Live_Project-fb8903?style=for-the-badge\&logo=vercel)](https://deploya.dev)
 
@@ -83,5 +83,3 @@ When I'm not hacking on Deploya, you'll find me experimenting with systematic tr
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nopsled&style=flat-square" alt="Visitor Badge"/>
 </p>
-
-<sub>Last updated — 29 July 2025</sub>
