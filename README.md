@@ -63,7 +63,8 @@ When I'm not hacking on Deploya, you'll find me experimenting with systematic tr
 | **[Archero Game Server](https://github.com/Nopsled/archero-game-server)** | Re‑implementation of game server via reverse‑engineered protocol. | Python  |
 | **[MooMoo Game Server](https://github.com/Nopsled/moomoo-game-server)** | Re‑implementation of game server via reverse‑engineered protocol. | Python  |
 | **[Arbitrage Finder](https://github.com/Nopsled/arbitrage-finder)**          | Arbitrage bot that guarantees a win by comparing betting odds.    | Python  |
-| **[Strongbolt](https://github.com/Nopsled/strongbolt)**       | Decentralised chat app built on Matrix.                           | Flutter |
+| **[Strongbolt](https://github.com/Nopsled/strongbolt)**       | Decentralized chat app built on Matrix.                           | Flutter |
+| **[Distcom](https://github.com/private-archieve/distcom)**       | Decentralized social network based on Mina Blockchain.                           | Next.js, React, TypeScript & Mina Blockchain |
 
 ---
 
