@@ -39,7 +39,6 @@ When I'm not hacking on Deploya, you'll find me experimenting with systematic tr
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
 | **[Deploya.dev](https://deploya.dev)** | AI‑assisted platform that turns ideas into production‑ready websites within minutes.                          | React · Next.js · Cloudflare Workers · Supabase · Deno |
 | **[Neurapath](https://github.com/neurapath-labs)**                           | Learning platform that boosts retention using spaced repetition & incremental reading, aimed at med‑students. | Cloudflare Workers · Chart.js · Durable Objects        |
-| **[Blinksms](https://github.com/blinksms-labs)**                        | Notifies students when cancelled amenity bookings (e.g., laundry rooms) become free at SSSB.                  | SvelteKit · tRPC · Supabase                            |
 
 > Explore even more experiments in the **Side‑Quests** section and pinned repos.
 
@@ -59,6 +58,7 @@ When I'm not hacking on Deploya, you'll find me experimenting with systematic tr
 
 | Project              | Description                                                       | Stack   |
 | -------------------- | ----------------------------------------------------------------- | ------- |
+| **[Blinksms](https://github.com/blinksms-labs)**                        | Notifies students when cancelled amenity bookings (e.g., laundry rooms) become free at SSSB.                  | SvelteKit · tRPC · Supabase                            |
 | **[Oslab](https://github.com/Nopsled/oslab)**            | Tiny x86 OS featuring basic I/O.                                  | C · ASM |
 | **[Archero Game Server](https://github.com/Nopsled/archero-game-server)** | Re‑implementation of game server via reverse‑engineered protocol. | Python  |
 | **[MooMoo Game Server](https://github.com/Nopsled/moomoo-game-server)** | Re‑implementation of game server via reverse‑engineered protocol. | Python  |
