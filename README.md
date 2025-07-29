@@ -1,7 +1,7 @@
 <h1 align="center">Hey there — I'm Martin 👋</h1>
 
 <p align="center">
-  Full‑Stack Developer • Founder of <a href="https://deploya.dev">Deploya.dev</a> • Cognitive Science Grad • Stockholm, Sweden
+  Full‑Stack Developer • Founder of <a href="https://deploya.dev">Deploya.dev</a> • Ex med school & Computer Science Undergrad • Cognitive Science Grad • Stockholm, Sweden
 </p>
 
 ---
