@@ -38,8 +38,8 @@ When I'm not hacking on Deploya, you'll find me experimenting with systematic tr
 | Project                                | What it does                                                                                                  | Tech Highlights                                        |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
 | **[Deploya.dev](https://deploya.dev)** | AI‑assisted platform that turns ideas into production‑ready websites within minutes.                          | React · Next.js · Cloudflare Workers · Supabase · Deno |
-| **Neurapath**                           | Learning platform that boosts retention using spaced repetition & incremental reading, aimed at med‑students. | Cloudflare Workers · Chart.js · Durable Objects        |
-| **Blinksms**                        | Notifies students when cancelled amenity bookings (e.g., laundry rooms) become free at SSSB.                  | SvelteKit · tRPC · Supabase                            |
+| **[Neurapath](https://github.com/neurapath-labs)**                           | Learning platform that boosts retention using spaced repetition & incremental reading, aimed at med‑students. | Cloudflare Workers · Chart.js · Durable Objects        |
+| **[Blinksms](https://github.com/blinksms-labs)**                        | Notifies students when cancelled amenity bookings (e.g., laundry rooms) become free at SSSB.                  | SvelteKit · tRPC · Supabase                            |
 
 > Explore even more experiments in the **Side‑Quests** section and pinned repos.
 
@@ -59,10 +59,10 @@ When I'm not hacking on Deploya, you'll find me experimenting with systematic tr
 
 | Project              | Description                                                       | Stack   |
 | -------------------- | ----------------------------------------------------------------- | ------- |
-| **Oslab**            | Tiny x86 OS featuring basic I/O.                                  | C · ASM |
-| **MooMoo.io Server** | Re‑implementation of game server via reverse‑engineered protocol. | Python  |
-| **Arbitrage Finder**          | Arbitrage bot that guarantees a win by comparing betting odds.    | Python  |
-| **Strongbolt**       | Decentralised chat app built on Matrix.                           | Flutter |
+| **[Oslab](https://github.com/Nopsled/oslab)**            | Tiny x86 OS featuring basic I/O.                                  | C · ASM |
+| **[MooMoo.io Server](https://github.com/Nopsled/remoo-game-server)** | Re‑implementation of game server via reverse‑engineered protocol. | Python  |
+| **[Arbitrage Finder](https://github.com/Nopsled/arbitrage-finder)**          | Arbitrage bot that guarantees a win by comparing betting odds.    | Python  |
+| **[Strongbolt](https://github.com/Nopsled/strongbolt)**       | Decentralised chat app built on Matrix.                           | Flutter |
 
 ---
 
