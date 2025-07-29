@@ -60,7 +60,8 @@ When I'm not hacking on Deploya, you'll find me experimenting with systematic tr
 | Project              | Description                                                       | Stack   |
 | -------------------- | ----------------------------------------------------------------- | ------- |
 | **[Oslab](https://github.com/Nopsled/oslab)**            | Tiny x86 OS featuring basic I/O.                                  | C · ASM |
-| **[MooMoo.io Server](https://github.com/Nopsled/remoo-game-server)** | Re‑implementation of game server via reverse‑engineered protocol. | Python  |
+| **[Archero Game Server](https://github.com/Nopsled/remoo-game-server)** | Re‑implementation of game server via reverse‑engineered protocol. | Python  |
+| **[MooMoo Game Server](https://github.com/Nopsled/remoo-game-server)** | Re‑implementation of game server via reverse‑engineered protocol. | Python  |
 | **[Arbitrage Finder](https://github.com/Nopsled/arbitrage-finder)**          | Arbitrage bot that guarantees a win by comparing betting odds.    | Python  |
 | **[Strongbolt](https://github.com/Nopsled/strongbolt)**       | Decentralised chat app built on Matrix.                           | Flutter |
 
