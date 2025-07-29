@@ -58,7 +58,7 @@ When I'm not hacking on Deploya, you'll find me experimenting with systematic tr
 
 | Project              | Description                                                       | Stack   |
 | -------------------- | ----------------------------------------------------------------- | ------- |
-| **[Blinksms](https://github.com/blinksms-labs/blinksms-frontend)**                        | Notifies students when cancelled amenity bookings (e.g., laundry rooms) become free at SSSB.                  | SvelteKit · tRPC · Supabase                            |
+| **[Instafication](https://github.com/instafication/frontend)**                        | Notifies students when cancelled amenity bookings (e.g., laundry rooms) become free at SSSB.                  | SvelteKit · tRPC · Supabase                            |
 | **[Oslab](https://github.com/Nopsled/oslab)**            | Tiny x86 OS featuring basic I/O.                                  | C · ASM |
 | **[Archero Game Server](https://github.com/Nopsled/archero-game-server)** | Re‑implementation of game server via reverse‑engineered protocol. | Python  |
 | **[MooMoo Game Server](https://github.com/Nopsled/moomoo-game-server)** | Re‑implementation of game server via reverse‑engineered protocol. | Python  |
