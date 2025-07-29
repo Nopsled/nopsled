@@ -68,7 +68,7 @@ When I'm not hacking on Deploya, you'll find me experimenting with systematic tr
 
 ## ✉️ Get in Touch
 
-[![Email](https://img.shields.io/badge/Email-Martin@deploya.dev-informational?style=for-the-badge\&logo=gmail)](mailto:Hello@martinjakobsson.se)
+[![Email](https://img.shields.io/badge/Email-Hello@martinjakobsson.se-informational?style=for-the-badge\&logo=gmail)](mailto:Hello@martinjakobsson.se)
 [![Website](https://img.shields.io/badge/Portfolio-martinjakobsson.se-11abfb?style=for-the-badge\&logo=Firefox-Browser)](https://martinjakobsson.se)
 [![Deploya.dev](https://img.shields.io/badge/Deploya.dev-Live_Project-fb8903?style=for-the-badge\&logo=vercel)](https://deploya.dev)
 
