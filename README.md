@@ -2,7 +2,7 @@
 
 <p align="left">
   👨🏻‍🎓 Full‑Stack Developer & Founder of <a href="https://deploya.dev">Deploya.dev</a></br>
-  📚 Computer Science Undergrad • Cognitive Science Grad • Prev. med school</br>
+  📚 Computer Science Undergrad @ KTH • Cognitive Science Grad • Prev. med school @ Karolinska Institute</br>
   🌎 Stockholm, Sweden
 </p>
 
